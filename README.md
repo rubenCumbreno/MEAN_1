@@ -18,18 +18,15 @@ Tutorial: https://www.youtube.com/watch?v=khCIunNAEHI
   npm init --yes (inicializa proyecto node)
   npm instal express (instala express en el proyecto)
   npm install nodemon -D (node como demonio para evitar encender y apagar constantemente)
-
   node index.js (arrancar el proyecto)
   npm run dev (arrancar el proyecto tras crear dependencia)
 
 3. Modulos
-  modulos
-    npm install morgan (ver logs consola mas desarrollado)
-    npm install mongoose (conexion con mongo)
+  npm install morgan (ver logs consola mas desarrollado)
+  npm install mongoose (conexion con mongo)
 
 4. MongoDb
-  mongo
-    sudo service mongod start (arrancar mongo)
+  sudo service mongod start (arrancar mongo)
   
 Uso de Postman para peticiones GET/POST/PUT/DELETE (https://www.getpostman.com/docs/v6/postman/launching_postman/installation_and_updates)
 
