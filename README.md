@@ -1,7 +1,9 @@
 # MEAN_1
 Primera parte de un proyecto "MEAN" de petición de empleados, parte backend como api rest.
 
-Tutorial: https://www.youtube.com/watch?v=khCIunNAEHI
+Tutorial: 
+* Parte 1: https://www.youtube.com/watch?v=khCIunNAEHI
+* Parte 2: https://www.youtube.com/watch?v=ccBtSAMFjto
 
 1. Crear estructura de proyecto:
     * Proyecto
