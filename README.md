@@ -11,7 +11,6 @@ Tutorial: https://www.youtube.com/watch?v=khCIunNAEHI
           * models/
           * index.js
           * database.js
-        * frontend/
 
 2. Inicialización del proyecto
   * cd proyecto
